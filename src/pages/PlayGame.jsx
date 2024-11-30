@@ -86,7 +86,7 @@ const PlayGame = () => {
 
   const sendDataToBackend = async (data) => {
     try {
-      const response = await axios.post("/api/sendUserFinancialData", data);
+      const response = await axios.post("https://fin-savy-backend.vercel.app/api/sendUserFinancialData", data);
       console.log("Data sent successfully!", response.data);
       
       // Assuming the backend sends a response with the predictions object
