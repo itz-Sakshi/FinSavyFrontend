@@ -4,7 +4,7 @@ import Input from "../components/Input";
 import { Select, Button, TrendCard } from "../components";
 import John from "../assets/images/SadJohn.jpeg";
 import Houses from "../assets/images/Houses.jpeg";
-import Expenses from "../assets/images/Expenses.jpeg";
+import Expenses from "../assets/images/expenses.jpeg";
 import Savings from "../assets/images/Savings.jpeg";
 import axios from "axios";
 import { Line } from "react-chartjs-2";
