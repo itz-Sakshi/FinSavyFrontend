@@ -12,7 +12,7 @@ function Footer() {
                                 <Logo width="100px" />
                             </div>
                             <p className="text-sm text-[#E8E8E8] mt-2">
-                                &copy; 2023. All Rights Reserved by DevUI.
+                                &copy; 2024. All Rights Reserved by FinSavy.
                             </p>
                         </div>
                     </div>
